@@ -4,37 +4,37 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="2" value="FE &amp; BE: Next.js" style="shape=rectangle;rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="2" value="FE &amp; BE: Next.js" style="shape=rectangle;rounded=1;fillColor=#d0e9ff;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="20" y="250" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="3" value="배포: Vercel" style="shape=rectangle;rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="3" value="배포: Vercel" style="shape=rectangle;rounded=1;fillColor=#d5f5e3;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="150" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="4" value="Prisma" style="shape=rectangle;rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="4" value="Prisma" style="shape=rectangle;rounded=1;fillColor=#d0e9ff;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="250" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="5" value="Supabase PostgreSQL" style="shape=rectangle;rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="5" value="Supabase PostgreSQL" style="shape=rectangle;rounded=1;fillColor=#f9e79f;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="250" width="150" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="6" value="Next.js Serverless &amp; Edge Functions" style="shape=rectangle;rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="6" value="Next.js Serverless &amp; Edge Functions" style="shape=rectangle;rounded=1;fillColor=#d0e9ff;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="20" y="400" width="200" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7" value="MDX 콘텐츠 변환 (gray-matter, rehype)" style="shape=rectangle;rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7" value="MDX 콘텐츠 변환 (gray-matter, rehype)" style="shape=rectangle;rounded=1;fillColor=#d5f5e3;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="250" y="400" width="220" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="8" value="이미지 저장: S3" style="shape=rectangle;rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="8" value="이미지 저장: S3" style="shape=rectangle;rounded=1;fillColor=#f8c471;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="20" y="550" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="9" value="GitHub Actions: 이미지 업로드 자동화" style="shape=rectangle;rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="9" value="GitHub Actions: 이미지 업로드 자동화" style="shape=rectangle;rounded=1;fillColor=#fcf3cf;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="250" y="550" width="200" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="10" value="AWS Lambda: WebP 변환, 리사이징, 캐시 헤더 추가" style="shape=rectangle;rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="10" value="AWS Lambda: WebP 변환, 리사이징, 캐시 헤더 추가" style="shape=rectangle;rounded=1;fillColor=#e8daef;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="500" y="550" width="250" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="11" value="포스팅 버킷 복사" style="shape=rectangle;rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="11" value="포스팅 버킷 복사" style="shape=rectangle;rounded=1;fillColor=#f8c471;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="800" y="550" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="12" value="CloudFront: 이미지 CDN" style="shape=rectangle;rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="12" value="CloudFront: 이미지 CDN" style="shape=rectangle;rounded=1;fillColor=#d5f5e3;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1000" y="550" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="13" style="edgeStyle=elbowEdgeStyle;rounded=1;html=1;endArrow=block;" edge="1" parent="1" source="2" target="3">
